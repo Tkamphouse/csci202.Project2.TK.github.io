@@ -1,14 +1,21 @@
 body {
-    background-image: "landscape.jpeg";
-    background-repeat: repeat-x;
+    background-image: url("landscape.jpeg");
+    background-repeat: no-repeat;
+    background-position: top;
+    margin-right: 200px;
+    background-attachment: fixed;
   }
   
 h1 {
     margin-left: 20px;
     color:cornflowerblue;
+    background-color:slategrey;
+    opacity: 0.3;
 }
 
 p {
     margin: 30px;
     color:lavender;
+    background-color:slategrey;
+    opacity: 0.3;
   }
