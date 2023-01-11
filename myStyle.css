@@ -3,11 +3,10 @@ body {
   }
   
 h1 {
-    color: navy;
     margin-left: 20px;
 }
 
-* {
+body {
     background-color: #EAF0F6;
     color: #33475B;
     border: 3px solid #00A4BD;
