@@ -6,7 +6,7 @@ body {
   }
   
 h1 {
-    margin: 50px;
+    margin: 150px;
     color:lavender;
     background-color:slategrey;
     opacity: 0.9;
@@ -18,7 +18,7 @@ h1 {
 }
 
 h2 {
-    margin: 50px;
+    margin: 150px;
     color:lavender;
     background-color:slategrey;
     opacity: 0.9;
@@ -30,7 +30,7 @@ h2 {
 }
 
 h3 {
-    margin: 50px;
+    margin: 150px;
     color:lavender;
     background-color:slategrey;
     opacity: 0.9;
@@ -42,7 +42,7 @@ h3 {
 }
 
 p {
-    margin: auto;
+    margin: 200;
     text-align: center;
     color:lavender;
     background-color:slategrey;
