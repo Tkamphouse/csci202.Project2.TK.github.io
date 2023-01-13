@@ -45,8 +45,7 @@ h3 {
 }
 
 p {
-    margin: 100px;
-    width: 800px;
+    width: 500px;
     text-align: left;
     color:lavender;
     background-color:slategrey;
@@ -59,6 +58,7 @@ p {
 
 table, nav {
     margin: auto;
+    width: 600px;
     color:slategray;
     background-color:floralwhite;
     border-style: solid;
@@ -78,6 +78,7 @@ img {
 
 address {
     margin: auto;
+    width: 900px;
     text-align: center;
     color:slategray;
     background-color:floralwhite;
@@ -88,6 +89,7 @@ address {
 
 ul {
     margin: auto;
+    width: 900px;
     color:lavender;
     background-color:slategrey;
     opacity: 0.9;
@@ -101,6 +103,7 @@ ul {
 
 pre {
     margin: auto;
+    width: 500px;
     color:lavender;
     background-color:slategrey;
     opacity: 0.9;
