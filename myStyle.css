@@ -32,12 +32,11 @@ p {
 
   }
 
-table {
+table, nav {
     margin: auto;
     text-align: center;
-    color:lavender;
-    background-color:darkolivegreen;
-    opacity: 0.9;
+    color:slategray;
+    background-color:floralwhite;
     border-style: solid;
     border-width: medium;
     padding: 10px;
