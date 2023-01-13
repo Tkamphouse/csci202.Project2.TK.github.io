@@ -19,9 +19,7 @@ h1 {
 }
 
 p {
-    margin: 0 auto;
-    margin-left: auto;
-    margin-right: auto;
+    margin: auto;
     text-align: center;
     color:lavender;
     background-color:slategrey;
@@ -33,3 +31,16 @@ p {
     font-size: 20px;
 
   }
+
+table {
+    margin: auto;
+    text-align: center;
+    color:lavender;
+    background-color:darkolivegreen;
+    opacity: 0.9;
+    border-style: solid;
+    border-width: medium;
+    padding: 10px;
+
+    font-size: 20px;
+}
