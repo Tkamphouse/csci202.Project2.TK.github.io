@@ -6,8 +6,7 @@ body {
   }
   
 h1 {
-    margin: 150px;
-    width:1000px;
+
     color:lavender;
     background-color:slategrey;
     opacity: 0.9;
@@ -19,8 +18,7 @@ h1 {
 }
 
 h2 {
-    margin: 150px;
-    width: 1000px;
+
     color:lavender;
     background-color:slategrey;
     opacity: 0.9;
@@ -32,8 +30,7 @@ h2 {
 }
 
 h3 {
-    margin: 150px;
-    width: 1000;
+
     color:lavender;
     background-color:slategrey;
     opacity: 0.9;
@@ -45,8 +42,7 @@ h3 {
 }
 
 p {
-    width: 500px;
-    text-align: left;
+
     color:lavender;
     background-color:slategrey;
     opacity: 0.9;
@@ -54,15 +50,10 @@ p {
 
     font-size: 20px;
 
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-
   }
 
 table, nav {
-    margin: auto;
-    width: 600px;
+
     color:slategray;
     background-color:floralwhite;
     border-style: solid;
@@ -81,8 +72,7 @@ img {
 }
 
 address {
-    margin: auto;
-    width: 900px;
+
     text-align: center;
     color:slategray;
     background-color:floralwhite;
@@ -92,8 +82,7 @@ address {
 }
 
 ul {
-    margin: auto;
-    width: 900px;
+
     color:lavender;
     background-color:slategrey;
     opacity: 0.9;
@@ -106,8 +95,7 @@ ul {
 }
 
 pre {
-    margin: auto;
-    width: 500px;
+
     color:lavender;
     background-color:slategrey;
     opacity: 0.9;
