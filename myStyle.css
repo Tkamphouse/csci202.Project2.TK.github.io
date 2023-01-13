@@ -7,8 +7,8 @@ body {
   }
   
 h1 {
-    margin-left: 20px;
-    color:cornflowerblue;
+    margin-left: 50px;
+    color:lavender;
     background-color:slategrey;
     opacity: 0.9;
     border-style: solid;
@@ -20,6 +20,7 @@ h1 {
 
 p {
     margin: 40px;
+    text-align: center;
     color:lavender;
     background-color:slategrey;
     opacity: 0.9;
