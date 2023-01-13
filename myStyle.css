@@ -2,7 +2,6 @@ body {
     background-image: url("landscape.jpeg");
     background-repeat: no-repeat;
     background-position: top;
-    margin-right: 200px;
     background-attachment: fixed;
   }
   
