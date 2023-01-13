@@ -42,8 +42,8 @@ h3 {
 }
 
 p {
-    margin-left: 200;
-    margin-right: 200;
+    margin: 100px;
+    width: 1200px;
     text-align: left;
     color:lavender;
     background-color:slategrey;
